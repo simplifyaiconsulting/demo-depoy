@@ -71,11 +71,6 @@ coverage.xml
 README.md
 docs/
 
-# Docker
-Dockerfile*
-docker-compose*.yml
-.dockerignore
-
 # CI/CD
 .github/
 
